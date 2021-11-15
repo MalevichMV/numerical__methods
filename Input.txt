@@ -1,0 +1,7 @@
+5
+dynamic
+5
+2 5
+analytical
+1/ln(x)
+0.0001
